@@ -1,7 +1,0 @@
-body .square {
-    background-color: red;
-}
-
-body .square:nth-of-type(2n) {
-    background-color: black;
-}
